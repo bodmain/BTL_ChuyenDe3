@@ -1,0 +1,468 @@
+
+
+793750
+top
+0
+1779651
+1042345
+BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG
+ 
+ĐẠI
+ 
+HỌC
+ 
+CÔNG
+ 
+NGHỆ
+ 
+ĐÔNG
+ 
+Á
+KHOA
+ 
+CÔNG
+ 
+NGHỆ
+ 
+THÔNG
+ 
+TIN
+BÀI
+ 
+TẬP
+ 
+LỚN
+HỌC
+ 
+PHẦN: LẬP
+ 
+TRÌNH
+ 
+WEB
+ 
+VỚI
+ 
+PHP
+CHỦ
+ 
+ĐỀ
+ 
+.....:
+ 
+WEBSITE
+ 
+QUẢN
+ 
+LÝ
+ĐỀ
+ 
+TÀI
+ 
+....:
+ 
+WEBSITE
+ 
+CỬA
+ 
+HÀNG
+ 
+ĐIỆN
+ 
+TỬ
+Sinh viên thực hiện
+Lớp
+Khóa 
+Hoàng Mạnh Cường
+  
+DCCNTT13.10.9
+K13 
+Lưu Nguyên Trường
+  
+DCCNTT13.10.9
+K13
+Bắc
+ 
+Ninh,
+ 
+năm
+ 
+2024
+1
+BỘ GIÁO DỤC VÀ ĐÀO TẠO TRƯỜNG
+ 
+ĐẠI
+ 
+HỌC
+ 
+CÔNG
+ 
+NGHỆ
+ 
+ĐÔNG
+ 
+Á
+KHOA
+ 
+CÔNG
+ 
+NGHỆ
+ 
+THÔNG
+ 
+TIN
+BÀI
+ 
+TẬP
+ 
+LỚN
+HỌC
+ 
+PHẦN: LẬP
+ 
+TRÌNH
+ 
+WEB
+ 
+VỚI
+ 
+PHP
+CHỦ
+ 
+ĐỀ
+ 
+.....:
+ 
+WEBSITE
+ 
+QUẢN
+ 
+LÝ
+ĐỀ
+ 
+TÀI
+ 
+....:
+ 
+WEBSITE
+ 
+CỬA
+ 
+HÀNG
+ 
+ĐIỆN
+ 
+TỬ
+Sinh viên thực hiện
+Lớp
+Khóa 
+Hoàng Mạnh Cường
+  
+DCCNTT13.10.9
+K13 
+Lưu Nguyên Trường
+  
+DCCNTT13.10.9
+K13
+Bắc
+ 
+Ninh,
+ 
+năm
+ 
+2024
+1
+TRƯỜNG
+ 
+ĐẠI
+ 
+HỌC
+ 
+CÔNG
+ 
+NGHỆ
+ 
+ĐÔNG
+ 
+Á KHOA CÔNG NGHỆ THÔNG TIN
+BÀI
+ 
+TẬP
+ 
+LỚN
+HỌC
+ 
+PHẦN:
+ 
+Đề
+ 
+tài
+ 
+4  
+&lt;
+tên
+ 
+đề
+ 
+tài
+&gt;
+LỚP
+ 
+TÍN
+ 
+CHỈ:
+Giảng
+ 
+viên
+ 
+hướng
+ 
+dẫn:
+Danh sách sinh viên thực hiện: 
+STT
+Mã
+ 
+sinh
+ 
+viên
+Sinh
+ 
+viên
+ 
+thực
+ 
+hiện
+Lớp
+ 
+hành
+ 
+chính
+1
+2
+Bắc
+ 
+Ninh,
+ 
+năm
+ 
+202
+6
+MỤC LỤC
+ TOC \o "1-3" \h \z \u 
+DANH MỤC CÁC TỪ VIẾT TẮT
+ PAGEREF _Toc226106907 \h 
+4
+DANH MỤC BẢNG BIỂU VÀ SƠ ĐỒ
+ PAGEREF _Toc226106908 \h 
+5
+LỜI MỞ ĐẦU
+ PAGEREF _Toc226106909 \h 
+6
+CHƯƠNG 1. TỔNG QUAN ĐỀ TÀI…
+ PAGEREF _Toc226106910 \h 
+7
+1.1Lý do chọn đề tài
+ PAGEREF _Toc226106911 \h 
+7
+1.2.Mục tiêu của đề tài
+ PAGEREF _Toc226106912 \h 
+7
+1.3.Đối tượng nghiên cứu
+ PAGEREF _Toc226106913 \h 
+7
+1.4.Phạm vi nghiên cứu
+ PAGEREF _Toc226106914 \h 
+7
+1.5.Phương pháp thực hiện
+ PAGEREF _Toc226106915 \h 
+7
+1.6.Công cụ và môi trường thực hiện
+ PAGEREF _Toc226106916 \h 
+7
+1.7.Cấu trúc báo cáo
+ PAGEREF _Toc226106917 \h 
+7
+CHƯƠNG 2. CƠ SỞ LÝ THUYẾT
+ PAGEREF _Toc226106918 \h 
+8
+2.1. Tổng quan về xử lý và phân tích dữ liệu
+ PAGEREF _Toc226106919 \h 
+8
+2.2. Các bước tiền xử lý dữ liệu
+ PAGEREF _Toc226106920 \h 
+8
+2.3. Cơ sở lý thuyết về thư viện sử dụng
+ PAGEREF _Toc226106921 \h 
+8
+2.3.1. NumPy
+ PAGEREF _Toc226106922 \h 
+8
+2.3.2. pandas
+ PAGEREF _Toc226106923 \h 
+8
+2.3.3. matplotlib và/hoặc seaborn
+ PAGEREF _Toc226106924 \h 
+8
+2.4. Các chỉ số và phương pháp phân tích sử dụng trong đề tài
+ PAGEREF _Toc226106925 \h 
+8
+2.5. Quy trình đề xuất cho bài toán
+ PAGEREF _Toc226106926 \h 
+8
+CHƯƠNG 3. THỰC NGHIỆM
+ PAGEREF _Toc226106927 \h 
+9
+3.1. Mô tả bài toán và dữ liệu thực nghiệm
+ PAGEREF _Toc226106928 \h 
+9
+3.2. Phân tích và khảo sát dữ liệu ban đầu
+ PAGEREF _Toc226106929 \h 
+9
+3.3. Tiền xử lý dữ liệu
+ PAGEREF _Toc226106930 \h 
+9
+3.4. Trực quan hóa dữ liệu
+ PAGEREF _Toc226106931 \h 
+9
+3.5. Phân tích dữ liệu /Xây dựng mô hình
+ PAGEREF _Toc226106932 \h 
+9
+3.6. Kết quả thực nghiệm
+ PAGEREF _Toc226106933 \h 
+9
+3.7. Đánh giá
+ PAGEREF _Toc226106934 \h 
+9
+KẾT LUẬN
+ PAGEREF _Toc226106935 \h 
+10
+Kết quả đạt được
+ PAGEREF _Toc226106936 \h 
+10
+Hạn chế
+ PAGEREF _Toc226106937 \h 
+10
+Hướng phát triển
+ PAGEREF _Toc226106938 \h 
+10
+TÀI LIỆU THAM KHẢO
+ PAGEREF _Toc226106939 \h 
+11
+PHỤ LỤC
+ PAGEREF _Toc226106940 \h 
+12
+DANH MỤC CÁC TỪ VIẾT TẮT
+(
+trình
+ 
+bầy
+ 
+trong
+ 
+trang
+ 
+riêng
+)
+STT
+Chữ
+ 
+viết
+ 
+tắt
+Giải
+ 
+thích
+1
+2
+3
+DANH MỤC BẢNG BIỂU VÀ SƠ ĐỒ
+ 
+(
+trình
+ 
+bầy
+ 
+trong
+ 
+trang
+ 
+riêng
+)
+Số
+ 
+hiệu
+Tên
+Trang 
+1.1
+Lưu ý 
+Các sơ đồ, hình vẽ, bảng biểu phải có tên và số thứ tự được sắp xếp theo chương.
+Đối với sơ đồ, hình vẽ, đồ thị thì tên được đặt ở dưới
+Đối với bảng số liệu thì tên đặt ở trên.
+LỜI MỞ ĐẦ
+U
+CHƯƠNG 1. TỔNG QUAN ĐỀ TÀI…
+1.1Lý do chọn đề tài
+1.2.Mục tiêu của đề tài
+1.3.Đối tượng nghiên cứu
+1.4.Phạm vi nghiên cứu
+1.5.Phương pháp thực hiện
+1.6.Công cụ và môi trường thực hiện
+1.7.Cấu trúc báo cáo
+CHƯƠNG 2. CƠ SỞ LÝ THUYẾT
+2.1. Tổng quan về xử lý và phân tích dữ liệu
+2.2. Các bước tiền xử lý dữ liệu
+2.3. Cơ sở lý thuyết về thư viện sử dụng
+2.3.1. NumPy
+2.3.2. 
+P
+andas
+2.3.3. 
+M
+atplotlib và/hoặc seaborn
+2.4. Các chỉ số và phương pháp phân tích sử dụng trong đề tài
+2.5. Quy trình đề xuất cho bài toán
+CHƯƠNG 3. THỰC NGHIỆM
+3.1. Mô tả bài toán và dữ liệu thực nghiệm
+3.2. Phân tích và khảo sát dữ liệu ban đầu
+3.3. Tiền xử lý dữ liệu
+3.4. Trực quan hóa dữ liệu
+3.5. Phân tích dữ liệu /Xây dựng mô hình
+3.6. Kết quả thực nghiệm
+3.7. Đánh giá
+KẾT LUẬN
+Kết quả đạt được
+Hạn chế
+Hướng phát triển
+TÀI LIỆU THAM KHẢO
+(
+ít
+ 
+nhất
+ 5 
+tài
+ 
+liệu
+ 
+tham
+ 
+khảo
+ 
+trong
+ 
+đó
+ 
+phải
+ 
+có
+ 
+ít
+ 
+nhất
+ 3 
+sách
+)
+PHỤ LỤC
+PHỤ LỤC A. Mô tả bộ dữ liệu
+PHỤ LỤC B. Một phần dữ liệu mẫu
+PHỤ LỤC C. Mã nguồn chương trình
+PHỤ LỤC D. Kết quả thực nghiệm bổ sung
+PHỤ LỤC E. Phân công công việc nhóm

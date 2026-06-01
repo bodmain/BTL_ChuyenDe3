@@ -1,0 +1,1000 @@
+
+
+center
+76200
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐÔNG Á
+KHOA CÔNG NGHỆ THÔNG TIN
+BÀI TẬP LỚN
+                   
+HỌC PHẦN: CHUYÊN ĐỀ TỐT NGHIỆP 3
+                  
+ 
+ĐỀ TÀI
+ 
+11
+ : 
+PHÂN TÍCH DỮ LIỆU MẠNG XÃ HỘI
+                   
+LỚP
+ 
+TÍN
+ 
+CHỈ:
+ CD
+TN3
+.0
+3
+.K13.
+04.
+LH.C04.1_LT
+Giảng viên giảng dạy: Trần Nguyên Hoàng
+Danh sách sinh viên thực hiện: 
+Nhóm 12 
+TT
+Mã sinh viên
+Sinh viên thực hiện
+Lớp hành chính
+2
+20223
+099
+ 
+Đỗ Văn Quân
+DCCNTT13
+.10.16
+3
+20223011 
+Hoàng Ngọc Thành 
+DCCNTT13
+.10.16
+4
+20223
+185
+Vi Thế Toàn
+DCCNTT13
+.10.16
+5 
+20223053
+Đào
+ Xuân Phú
+DCCNTT13
+.10.16
+Bắc Ninh, năm 202
+6
+0
+0
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ ĐÔNG Á
+KHOA CÔNG NGHỆ THÔNG TIN
+BÀI TẬP LỚN
+                   
+HỌC PHẦN: CHUYÊN ĐỀ TỐT NGHIỆP 3
+                  
+ 
+ĐỀ TÀI
+ 
+11
+ : 
+PHÂN TÍCH DỮ LIỆU MẠNG XÃ HỘI
+                   
+LỚP
+ 
+TÍN
+ 
+CHỈ:
+ CD
+TN3
+.0
+3
+.K13.
+04.
+LH.C04.1_LT
+Giảng viên giảng dạy: Trần Nguyên Hoàng
+Danh sách sinh viên thực hiện: 
+Nhóm 12 
+TT
+Mã sinh viên
+Sinh viên thực hiện
+Lớp hành chính
+2
+20223
+099
+ 
+Đỗ Văn Quân
+DCCNTT13
+.10.16
+3
+20223011 
+Hoàng Ngọc Thành 
+DCCNTT13
+.10.16
+4
+20223
+185
+Vi Thế Toàn
+DCCNTT13
+.10.16
+5 
+20223053
+Đào
+ Xuân Phú
+DCCNTT13
+.10.16
+Bắc Ninh, năm 202
+6
+MỤC LỤC
+ TOC \o "1-3" \h \z \u 
+DANH MỤC CÁC TỪ VIẾT TẮT
+ PAGEREF _Toc230706430 \h 
+4
+DANH MỤC HÌNH ẢNH
+ PAGEREF _Toc230706431 \h 
+5
+DANH MỤC BẢNG BIỂU VÀ SƠ ĐỒ
+ PAGEREF _Toc230706432 \h 
+6
+LỜI MỞ ĐẦU
+ PAGEREF _Toc230706433 \h 
+7
+CHƯƠNG 1. TỔNG QUAN ĐỀ TÀI
+ PAGEREF _Toc230706434 \h 
+8
+1.1
+ 
+Lý do chọn đề tài
+ PAGEREF _Toc230706435 \h 
+8
+1.2.
+ 
+Mục tiêu của đề tài
+ PAGEREF _Toc230706436 \h 
+8
+1.3.
+ 
+Đối tượng nghiên cứu
+ PAGEREF _Toc230706437 \h 
+9
+1.4.Phạm vi nghiên cứu
+ PAGEREF _Toc230706438 \h 
+9
+1.5.
+ 
+Phương pháp thực hiện
+ PAGEREF _Toc230706439 \h 
+10
+1.6.Công cụ và môi trường thực hiện
+ PAGEREF _Toc230706440 \h 
+11
+1.7.Cấu trúc báo cáo
+ PAGEREF _Toc230706441 \h 
+11
+CHƯƠNG 2. CƠ SỞ LÝ THUYẾT
+ PAGEREF _Toc230706442 \h 
+12
+2.1. Tổng quan về xử lý và phân tích dữ liệu
+ PAGEREF _Toc230706443 \h 
+12
+2.2. Các bước tiền xử lý dữ liệu
+ PAGEREF _Toc230706444 \h 
+13
+2.3. Cơ sở lý thuyết về thư viện sử dụng
+ PAGEREF _Toc230706445 \h 
+15
+2.3.1. NumPy
+ PAGEREF _Toc230706446 \h 
+15
+2.3.2. 
+P
+andas
+ PAGEREF _Toc230706447 \h 
+16
+2.3.3. 
+M
+atplotlib và/hoặc seaborn
+ PAGEREF _Toc230706448 \h 
+16
+2.4. Các chỉ số và phương pháp phân tích sử dụng trong đề tài
+ PAGEREF _Toc230706449 \h 
+17
+2.5. Quy trình đề xuất cho bài toán
+ PAGEREF _Toc230706450 \h 
+17
+CHƯƠNG 3. THỰC NGHIỆM
+ PAGEREF _Toc230706451 \h 
+19
+3.1. Mô tả bài toán và dữ liệu thực nghiệm
+ PAGEREF _Toc230706452 \h 
+19
+3.2. Phân tích và khảo sát dữ liệu ban đầu
+ PAGEREF _Toc230706453 \h 
+20
+3.3. Tiền xử lý dữ liệu
+ PAGEREF _Toc230706454 \h 
+22
+3.4. Trực quan hóa dữ liệu
+ PAGEREF _Toc230706455 \h 
+23
+3.5. Phân tích dữ liệu /Xây dựng mô hình
+ PAGEREF _Toc230706456 \h 
+25
+3.6. Kết quả thực nghiệm
+ PAGEREF _Toc230706457 \h 
+27
+3.7. Đánh giá
+ PAGEREF _Toc230706458 \h 
+28
+KẾT LUẬN
+ PAGEREF _Toc230706459 \h 
+29
+1
+. 
+Kết quả đạt được
+ PAGEREF _Toc230706460 \h 
+29
+2
+. 
+Hạn chế
+ PAGEREF _Toc230706461 \h 
+29
+3
+. 
+Hướng phát triển
+ PAGEREF _Toc230706462 \h 
+30
+TÀI LIỆU THAM KHẢO
+ PAGEREF _Toc230706463 \h 
+32
+PHỤ LỤC
+ PAGEREF _Toc230706464 \h 
+33
+1
+. 
+PHỤ LỤC A. MÔ
+ TẢ BỘ DỮ LIỆU
+ PAGEREF _Toc230706465 \h 
+33
+2
+. 
+PHỤ LỤC B. MỘT
+ PHẦN DỮ LIỆU MẪU
+ PAGEREF _Toc230706466 \h 
+33
+3
+. 
+PHỤ LỤC C. MÃ
+ NGUỒN CHƯƠNG TRÌNH
+ PAGEREF _Toc230706467 \h 
+34
+4
+. 
+PHỤ LỤC D. KẾT
+ QUẢ THỨC NGHIỆM BỔ SUNG
+ PAGEREF _Toc230706468 \h 
+34
+5
+. 
+PHỤ LỤC E. PHÂN
+ CÔNG CÔNG VIỆC NHÓM
+ PAGEREF _Toc230706469 \h 
+35
+DANH MỤC CÁC TỪ VIẾT TẮT
+Số thứ tự
+Chữ viết tắt
+Giải thích
+1
+LIWC
+Linguistic Inquiry and Word Count (Công cụ phân tích ngôn ngữ và đếm từ)
+2
+CSV
+Comma-Separated Values (Tệp dữ liệu phân tách bằng dấu phẩy)
+3
+MAE
+Mean Absolute Error (Sai số tuyệt đối trung bình)
+4
+RMSE
+Root Mean Square Error (Căn bậc hai của sai số bình phương trung bình)
+5
+R²
+R-squared / Coefficient of Determination (Hệ số xác định)
+6
+IQR
+Interquartile Range (Khoảng tứ phân vị)
+7
+Z-score
+Điểm chuẩn hóa (Giá trị chuẩn hóa theo độ lệch chuẩn)
+8
+Text → 0 / Image → 1 / Video → 2
+Mã hóa dữ liệu dạng chữ sang dạng số
+9
+Ndarray
+N-dimensional array (Mảng nhiều chiều trong numpy)
+DANH MỤC HÌNH ẢNH
+ TOC \h \z \c "Hình" 
+Hình 1
+. Quy trình phân tích dữ liệu
+ PAGEREF _Toc230624869 \h 
+13
+Hình 2
+. Thống kê mô tả dữ liệu
+ PAGEREF _Toc230624870 \h 
+22
+Hình 3
+. Histogram phân bố lượt thích
+ PAGEREF _Toc230624871 \h 
+22
+Hình 4
+. Boxplot phát hiện ngoại lệ
+ PAGEREF _Toc230624872 \h 
+22
+Hình 5
+. Quy trình tiền xử lí dữ liệu
+ PAGEREF _Toc230624873 \h 
+23
+Hình 6
+. Tổng trực quan dữ liệu
+ PAGEREF _Toc230624874 \h 
+24
+Hình 7
+. Phân tích tương tác theo thời gian
+ PAGEREF _Toc230624875 \h 
+25
+Hình 8
+. Xu hướng chuỗi thời gian tương tác
+ PAGEREF _Toc230624876 \h 
+25
+Hình 9
+. Heatmap tương quan các biến nội dung/tương tác
+ PAGEREF _Toc230624877 \h 
+25
+Hình 10
+. Phân tích theo nhóm nội dung
+ PAGEREF _Toc230624878 \h 
+26
+Hình 11
+. Quy trình xây dựng mô hình
+ PAGEREF _Toc230624879 \h 
+27
+Hình 12
+. Minh họa Random Forest
+ PAGEREF _Toc230624880 \h 
+27
+Hình 13
+. So sánh hiệu năng các mô hình
+ PAGEREF _Toc230624881 \h 
+29
+DANH MỤC BẢNG BIỂU VÀ SƠ ĐỒ
+ 
+  
+ TOC \h \z \c "Bảng" 
+Bảng 1
+. Cấu trúc dữ liệu mạng xã hội
+ PAGEREF _Toc230624083 \h 
+20
+LỜI MỞ ĐẦU
+Trong thời đại công nghệ số phát triển mạnh mẽ, mạng xã hội đã trở thành một phần không thể thiếu trong đời sống con người. Các nền tảng như Facebook,Twitter,Instagram hay TikTok không chỉ là công cụ kết nối, giao tiếp mà còn là nơi sản sinh ra một lượng dữ liệu khổng lồ mỗi ngày. Những dữ liệu này chứa đựng nhiều thông tin giá trị về hành vi người dùng, xu hướng xã hội, cũng như các mối quan hệ tương tác trong cộng đồng.
+Việc khai thác và phân tích dữ liệu mạng xã hội đã và đang trở thành một lĩnh vực nghiên cứu quan trọng trong khoa học dữ liệu. Thông qua các phương pháp phân tích hiện đại như khai phá dữ liệu (data mining), học máy (machine learning) và lý thuyết đồ thị (graph theory), chúng ta có thể hiểu rõ hơn về cấu trúc mạng, xác định các nút quan trọng, phát hiện cộng đồng, cũng như dự đoán xu hướng lan truyền thông tin.
+Một trong những bài toán tiêu biểu trong phân tích mạng xã hội là đánh giá mức độ ảnh hưởng của các cá nhân trong mạng. Các thuật toán như PageRank,Centrality (degree, betweenness, closeness) được sử dụng rộng rãi để xác định những người dùng có vai trò quan trọng trong việc lan truyền thông tin. Điều này có ý nghĩa lớn trong nhiều lĩnh vực như marketing, truyền thông, an ninh mạng và nghiên cứu xã hội học.
+Bên cạnh đó, việc trực quan hóa dữ liệu cũng đóng vai trò quan trọng giúp người nghiên cứu dễ dàng quan sát và hiểu được đặc điểm của mạng lưới. Các biểu đồ phân phối, đồ thị mạng và các kỹ thuật trực quan hóa khác giúp chuyển đổi dữ liệu phức tạp thành thông tin trực quan, hỗ trợ quá trình phân tích và ra quyết định.
+Trong đề tài này, chúng tôi tập trung vào việc xây dựng và phân tích một mạng xã hội dựa trên dữ liệu thu thập được, áp dụng các thuật toán như PageRank để đánh giá tầm quan trọng của các nút, đồng thời thực hiện trực quan hóa kết quả nhằm làm rõ các đặc trưng của mạng. Qua đó, đề tài hướng tới việc cung cấp cái nhìn tổng quan và sâu sắc hơn về cách thức hoạt động của mạng xã hội cũng như giá trị của việc phân tích dữ liệu trong bối cảnh hiện nay.
+CHƯƠNG 1. TỔNG QUAN ĐỀ 
+TÀI
+1.1
+ 
+Lý do chọn đề tài
+            
+T
+rong thời đại công nghệ số hiện nay, mạng xã hội đã trở thành một phần không thể thiếu trong đời sống con người. Các nền tảng như 
+Facebook
+,
+Instagram
+ và 
+TikTok
+ 
+không chỉ được sử dụng để giao tiếp và giải trí mà còn là công cụ quan trọng trong hoạt động kinh doanh, marketing và truyền thông. Mỗi ngày, hàng triệu bài đăng, hình ảnh, video và bình luận được tạo ra, hình thành nên một nguồn dữ liệu khổng lồ chứa nhiều thông tin giá trị về hành vi người dùng, xu hướng nội dung và mức độ tương tác trên mạng xã hội.
+Việc phân tích dữ liệu mạng xã hội giúp doanh nghiệp và cá nhân hiểu rõ hơn về sở thích, nhu cầu cũng như hành vi của người dùng. Từ đó có thể xây dựng các chiến lược nội dung phù hợp nhằm tăng hiệu quả truyền thông và khả năng tiếp cận khách hàng. Ngoài ra, phân tích dữ liệu mạng xã hội còn đóng vai trò quan trọng trong lĩnh vực khoa học dữ liệu và trí tuệ nhân tạo, hỗ trợ phát hiện xu hướng, đánh giá hiệu quả nội dung và dự đoán mức độ tương tác của người dùng.
+Bên cạnh ý nghĩa thực tiễn, đề tài còn giúp sinh viên vận dụng các kiến thức đã học về lập trình Python, xử lý dữ liệu, trực quan hóa dữ liệu và học máy vào bài toán thực tế. Qua quá trình thực hiện, sinh viên có cơ hội nâng cao kỹ năng lập trình, tư duy phân tích và kỹ năng nghiên cứu khoa học. Vì những lý do trên, nhóm quyết định lựa chọn đề tài “Phân tích dữ liệu mạng xã hội nhằm đánh giá mức độ tương tác và xu hướng nội dung” để nghiên cứu và thực hiện.
+1.2.
+ 
+Mục tiêu của đề tài
+Đề tài được thực hiện nhằm nghiên cứu và phân tích dữ liệu mạng xã hội để xác định các yếu tố ảnh hưởng đến mức độ tương tác của người dùng đối với bài đăng. Thông qua quá trình phân tích, đề tài hướng tới việc hỗ trợ tối ưu hóa nội dung và nâng cao hiệu quả truyền thông trên mạng xã hội.
+Cụ thể, đề tài tập trung vào việc thu thập và xử lý dữ liệu từ các bài đăng trên mạng xã hội, bao gồm các thông tin như loại nội dung, thời gian đăng bài, lượt thích, bình luận, chia sẻ và lượt xem. Từ dữ liệu thu thập được, đề tài tiến hành phân tích nhằm xác định những yếu tố có ảnh hưởng lớn đến mức độ tương tác của người dùng.
+Ngoài ra, đề tài còn thực hiện so sánh hiệu quả giữa các loại nội dung như văn bản, hình ảnh và video nhằm đánh giá loại nội dung nào có khả năng thu hút tương tác tốt hơn. Bên cạnh đó, các phương pháp trực quan hóa dữ liệu cũng được áp dụng để biểu diễn dữ liệu dưới dạng biểu đồ, giúp việc phân tích trở nên trực quan và dễ hiểu hơn.
+Một mục tiêu quan trọng khác của đề tài là xây dựng mô hình học máy để dự đoán mức độ tương tác của bài đăng dựa trên các thuộc tính đầu vào. Cuối cùng, đề tài đưa ra một số nhận xét và đề xuất nhằm hỗ trợ tối ưu nội dung trên mạng xã hội.
+1.3.
+ 
+Đối tượng nghiên cứu
+Đối tượng nghiên cứu của đề tài là dữ liệu bài đăng trên mạng xã hội và các chỉ số thể hiện mức độ tương tác của người dùng đối với các bài đăng đó. Dữ liệu nghiên cứu bao gồm nhiều thuộc tính khác nhau như nội dung bài đăng, loại nội dung, thời gian đăng bài và các chỉ số tương tác.
+Các loại nội dung được xem xét trong đề tài bao gồm bài đăng dạng văn bản, hình ảnh và video. Ngoài ra, đề tài còn nghiên cứu các yếu tố như độ dài nội dung, số lượng hashtag và thời điểm đăng bài để đánh giá mức độ ảnh hưởng của chúng đến hiệu quả tương tác.
+Bên cạnh đó, các chỉ số tương tác như lượt thích (likes), lượt bình luận (comments), lượt chia sẻ (shares) và lượt xem (views) được sử dụng để phân tích và đánh giá mức độ phổ biến cũng như khả năng lan truyền của bài đăng trên mạng xã hội.
+1.4.Phạm vi nghiên cứu
+Đề tài tập trung nghiên cứu việc phân tích dữ liệu mạng xã hội nhằm đánh giá mức độ tương tác và xu hướng nội dung của người dùng. Dữ liệu được sử dụng chủ yếu là dữ liệu công khai hoặc dữ liệu mô phỏng phục vụ mục đích học tập và nghiên cứu.
+Trong phạm vi đề tài, nhóm tập trung vào việc phân tích các yếu tố ảnh hưởng đến tương tác của bài đăng như loại nội dung, thời gian đăng bài, độ dài nội dung và số lượng 
+hashtag. Đồng thời, đề tài áp dụng các phương pháp thống kê mô tả, trực quan hóa dữ liệu và một số mô hình học máy cơ bản để thực hiện phân tích và dự đoán.
+Các mô hình học máy được sử dụng trong đề tài bao gồm Linear Regression, Decision Tree và Random Forest. Việc nghiên cứu chủ yếu được thực hiện bằng ngôn ngữ lập trình Python cùng các thư viện hỗ trợ phân tích dữ liệu.
+Do giới hạn về thời gian và nguồn lực, đề tài chưa đi sâu vào các lĩnh vực nâng cao như xử lý dữ liệu thời gian thực, Big Data, Deep Learning hay xử lý ngôn ngữ tự nhiên chuyên sâu. Vì vậy, kết quả nghiên cứu chủ yếu mang tính chất tham khảo và phục vụ mục đích học tập.
+1.5.
+ 
+Phương pháp thực hiện
+Đề tài được thực hiện theo một quy trình gồm nhiều bước nhằm đảm bảo tính khoa học và hiệu quả trong quá trình nghiên cứu. Trước tiên, dữ liệu được thu thập từ các nguồn có sẵn hoặc được tạo mô phỏng bằng Python. Sau khi thu thập, dữ liệu được tiến hành làm sạch và tiền xử lý nhằm loại bỏ các giá trị thiếu, dữ liệu trùng lặp hoặc các dữ liệu không hợp lệ.
+Tiếp theo, dữ liệu được chuẩn hóa và chuyển đổi sang định dạng phù hợp để phục vụ cho quá trình phân tích. Một số thuộc tính mới như tổng mức độ tương tác, giờ đăng bài hoặc ngày trong tuần cũng được tạo thêm để hỗ trợ việc đánh giá dữ liệu.
+Sau bước tiền xử lý, đề tài tiến hành phân tích thống kê mô tả nhằm xác định các đặc điểm cơ bản của dữ liệu như giá trị trung bình, giá trị lớn nhất, giá trị nhỏ nhất và mức độ phân bố của dữ liệu. Đồng thời, các biểu đồ trực quan hóa như biểu đồ cột, biểu đồ đường, histogram, heatmap và scatter plot được sử dụng để thể hiện dữ liệu dưới dạng trực quan.
+Cuối cùng, đề tài áp dụng các mô hình học máy nhằm dự đoán mức độ tương tác của bài đăng. Dữ liệu được chia thành tập huấn luyện và tập kiểm tra để đánh giá hiệu quả mô hình thông qua các chỉ số như MAE, RMSE và R² Score.
+1.6.Công cụ và môi trường thực hiện
+Đề tài sử dụng ngôn ngữ lập trình Python do đây là ngôn ngữ phổ biến trong lĩnh vực khoa học dữ liệu và trí tuệ nhân tạo. Python có cú pháp đơn giản, dễ sử dụng và hỗ trợ mạnh mẽ cho việc xử lý dữ liệu cũng như xây dựng mô hình học máy.
+Trong quá trình thực hiện, nhóm sử dụng một số thư viện quan trọng như Pandas để xử lý dữ liệu dạng bảng, NumPy để hỗ trợ tính toán số học và xử lý mảng dữ liệu, Matplotlib và Seaborn để trực quan hóa dữ liệu dưới dạng biểu đồ. Ngoài ra, thư viện Scikit-learn được sử dụng để xây dựng và đánh giá các mô hình học máy.
+Môi trường làm việc chính của đề tài là Jupyter Notebook và Google Colab do các nền tảng này hỗ trợ thuận tiện cho việc viết, chạy và kiểm tra mã nguồn Python. Bên cạnh đó, Microsoft Excel được sử dụng để kiểm tra và xử lý dữ liệu ban đầu, trong khi Microsoft Word được dùng để biên soạn và trình bày báo cáo.
+1.7.Cấu trúc báo cáo
+Báo cáo được chia thành ba chương chính nhằm trình bày đầy đủ quá trình nghiên cứu và thực hiện đề tài.
+Chương 1 trình bày tổng quan về đề tài, bao gồm lý do lựa chọn đề tài, mục tiêu nghiên cứu, đối tượng và phạm vi nghiên cứu, phương pháp thực hiện cũng như các công cụ và môi trường được sử dụng trong quá trình thực hiện đề tài.
+Chương 2 trình bày cơ sở lý thuyết liên quan đến xử lý và phân tích dữ liệu mạng xã hội. Nội dung chương bao gồm các bước tiền xử lý dữ liệu, các thư viện hỗ trợ phân tích dữ liệu và các phương pháp trực quan hóa dữ liệu được áp dụng trong đề tài.
+Chương 3 tập trung vào quá trình thực nghiệm, xây dựng mô hình học máy và đánh giá kết quả. Chương này trình bày quá trình phân tích dữ liệu, xây dựng mô hình dự đoán mức độ tương tác, so sánh hiệu quả giữa các mô hình và đưa ra các nhận xét, đánh giá kết quả đạt được.
+CHƯƠNG 2. CƠ SỞ LÝ THUYẾT
+2.1. Tổng quan về xử lý và phân tích dữ liệu
+Trong thời đại công nghệ số hiện nay, dữ liệu được tạo ra với tốc độ rất lớn từ nhiều nguồn khác nhau như mạng xã hội, thương mại điện tử, hệ thống cảm biến và các nền tảng trực tuyến. Đặc biệt, trên các nền tảng mạng xã hội như 
+Facebook
+ , 
+Instagram
+ và 
+TikTok
+, người dùng liên tục tạo ra các dữ liệu dưới dạng bài đăng, hình ảnh, video, lượt thích, bình luận và chia sẻ. Khối lượng dữ liệu lớn này chứa nhiều thông tin quan trọng phản ánh hành vi, sở thích và xu hướng của người dùng.
+Xử lý và phân tích dữ liệu là quá trình thu thập, làm sạch, biến đổi và khai thác dữ liệu nhằm tìm ra các thông tin có giá trị phục vụ cho việc phân tích và ra quyết định. Trong lĩnh vực mạng xã hội, việc phân tích dữ liệu giúp xác định nội dung được quan tâm nhiều nhất, đánh giá hiệu quả truyền thông và hỗ trợ xây dựng chiến lược nội dung phù hợp.
+Quá trình phân tích dữ liệu thường bao gồm nhiều bước như thu thập dữ liệu, tiền xử lý dữ liệu, phân tích thống kê, trực quan hóa dữ liệu và xây dựng mô hình dự đoán. Mỗi bước đều đóng vai trò quan trọng nhằm đảm bảo dữ liệu được xử lý chính xác và mang lại kết quả đáng tin cậy.
+Thông qua việc phân tích dữ liệu mạng xã hội, có thể:
+Hiểu được hành vi và xu hướng của người dùng. 
+Xác định các yếu tố ảnh hưởng đến mức độ tương tác. 
+Đánh giá hiệu quả của từng loại nội dung. 
+Hỗ trợ dự đoán và đưa ra quyết định trong hoạt động truyền thông và marketing. 
+Ngoài ra, việc kết hợp giữa phân tích dữ liệu và trực quan hóa dữ liệu còn giúp người nghiên cứu dễ dàng quan sát các xu hướng và đặc điểm quan trọng trong tập dữ liệu.
+Hình 
+ SEQ Hình \* ARABIC 
+1
+.
+ Quy trình phân tích dữ liệu
+2.2. Các bước tiền xử lý dữ liệu
+       
+Tiền xử lý dữ liệu là bước quan trọng trong quá trình phân tích dữ liệu nhằm đảm bảo dữ liệu sạch, đầy đủ và phù hợp cho việc phân tích. Dữ liệu mạng xã hội thường chứa nhiều giá trị thiếu, dữ liệu trùng lặp hoặc dữ liệu không đồng nhất, do đó cần được xử lý trước khi tiến hành phân tích.
+Quá trình tiền xử lý dữ liệu trong đề tài bao gồm các bước sau:
+Làm sạch dữ liệu
+Đây là bước đầu tiên nhằm loại bỏ các dữ liệu không hợp lệ hoặc không cần thiết. Các công việc thường thực hiện gồm:
+loại bỏ dữ liệu trùng lặp, 
+xử lý giá trị thiếu, 
+loại bỏ dữ liệu bất thường, 
+chuẩn hóa dữ liệu đầu vào. 
+Ví dụ:
+xóa các bài đăng không có nội dung, 
+thay thế giá trị rỗng bằng giá trị trung bình, 
+loại bỏ các dữ liệu sai định dạng. 
+Chuẩn hóa dữ liệu
+Dữ liệu được chuyển về cùng định dạng để thuận tiện cho việc xử lý và phân tích. Ví dụ:
+chuẩn hóa định dạng ngày tháng, 
+chuyển dữ liệu chữ thành chữ thường, 
+đồng nhất kiểu dữ liệu số. 
+Biến đổi dữ liệu
+Trong bước này, các thuộc tính mới được tạo ra nhằm hỗ trợ việc phân tích hiệu quả hơn. Ví dụ:
+tạo biến “hour” từ thời gian đăng bài, 
+tạo biến “day_of_week”, 
+tính tổng mức độ tương tác: 
+Total Engagement=
+ 
+Likes
+ 
++
+ 
+Comments
+ 
++
+ 
+Shares
+Mã hóa dữ liệu
+Các dữ liệu dạng chữ được chuyển đổi sang dạng số để phục vụ cho các mô hình học máy. Ví dụ:
+Text → 0 
+Image → 1 
+Video → 2 
+Phát hiện và xử lý ngoại lệ
+Các giá trị bất thường (outlier) có thể ảnh hưởng đến kết quả phân tích và dự đoán. Vì vậy cần phát hiện và xử lý bằng các phương pháp như:
+Boxplot, 
+Z-score, 
+IQR. 
+Sau quá trình tiền xử lý, dữ liệu trở nên sạch hơn và phù hợp cho việc phân tích cũng như xây dựng mô hình.
+Hình 
+2
+.
+ Quy trình tiền xử lí dữ liệu
+2.3. Cơ sở lý thuyết về thư viện sử dụng
+2.3.1. NumPy
+NumPy là thư viện hỗ trợ tính toán khoa học phổ biến trong Python. Thư viện này cung cấp cấu trúc dữ liệu mảng nhiều chiều (ndarray) cùng nhiều hàm toán học giúp xử lý dữ liệu nhanh và hiệu quả hơn so với Python thuần.
+NumPy hỗ trợ:
+X
+ử lý dữ liệu số 
+học.
+ 
+T
+ính toán ma 
+trận.
+X
+ử lý 
+vector.
+T
+hực hiện các phép toán thống kê. 
+Trong đề tài, NumPy được sử dụng để:
+S
+inh dữ liệu mô 
+phỏng.
+T
+hực hiện tính toán thống 
+kê.
+H
+ỗ trợ xử lý dữ liệu cho các mô hình học máy. 
+Ví dụ mảng NumPy:
+2.3.2. 
+P
+andas
+Pandas là thư viện mạnh mẽ dùng để xử lý và phân tích dữ liệu dạng bảng trong Python. Dữ liệu trong Pandas được tổ chức dưới dạng DataFrame tương tự bảng tính Excel.
+Pandas hỗ trợ:
+Đ
+ọc dữ liệu từ CSV, 
+Excel.
+L
+ọc và sắp xếp dữ 
+liệu.
+X
+ử lý dữ liệu 
+thiếu.
+T
+hống kê dữ 
+liệu.
+N
+hóm dữ liệu theo điều kiện. 
+Trong đề tài, Pandas đóng vai trò chính trong:
+Đ
+ọc dữ liệu mạng xã 
+hội.
+T
+iền xử lý dữ 
+liệu.
+P
+hân tích thống 
+kê.
+C
+huẩn bị dữ liệu cho trực quan hóa và học máy. 
+Ví dụ DataFrame:
+2.3.3. 
+M
+atplotlib và/hoặc seaborn
+Matplotlib và Seaborn là hai thư viện trực quan hóa dữ liệu phổ biến trong Python.
+Matplotlib
+Matplotlib được sử dụng để xây dựng các biểu đồ cơ bản như:
+B
+iểu đồ 
+cột.
+B
+iểu đồ 
+đường.
+B
+iểu đồ 
+tròn.
+ 
+H
+istogram. 
+Thư viện này có tính linh hoạt cao và cho phép tùy chỉnh biểu đồ chi tiết.
+Seaborn
+Seaborn được xây dựng trên nền Matplotlib và hỗ trợ trực quan hóa dữ liệu thống kê đẹp và trực quan hơn.
+Seaborn hỗ trợ:
+Heatmap.
+Boxplot.
+Scatter 
+Plot.
+ 
+Pairplot. 
+Trong đề tài, Matplotlib và Seaborn được sử dụng để:
+P
+hân tích xu hướng dữ 
+liệu.
+S
+o sánh mức độ tương 
+tác.
+ 
+P
+hát hiện tương quan giữa các thuộc tính. 
+2.4. Các chỉ số và phương pháp phân tích sử dụng trong đề tài
+Trong đề tài, một số chỉ số và phương pháp phân tích được sử dụng:
+Tổng mức độ tương tác (Engagement)
+:
+Tổng hợp các chỉ số likes, comments và shares 
+Giá trị trung bình (Mean)
+:
+Dùng để đánh giá mức độ tương tác trung bình 
+Tương quan (Correlation)
+:
+Xác định mối quan hệ giữa các biến 
+Phân nhóm dữ liệu (Grouping)
+:
+So sánh dữ liệu theo từng loại nội dung hoặc thời gian 
+Trực quan hóa dữ liệu
+:
+Sử dụng biểu đồ để phân tích xu hướng 
+Các phương pháp này giúp rút ra các nhận xét có ý nghĩa từ dữ liệu.
+2.5. Quy trình đề xuất cho bài toán
+Quy trình thực hiện bài toán phân tích dữ liệu mạng xã hội được đề xuất như sau:
+Thu thập dữ liệu từ nguồn có sẵn hoặc tạo dữ liệu mô phỏng 
+Tiền xử lý dữ liệu (làm sạch, chuẩn hóa) 
+Phân tích thống kê mô tả 
+Trực quan hóa dữ liệu 
+Xây dựng mô hình dự đoán 
+Đánh giá kết quả 
+Rút ra kết luận và đề xuất hướng phát triển 
+Quy trình này giúp đảm bảo việc phân tích dữ liệu được thực hiện một cách khoa học và hiệu quả.
+CHƯƠNG 3. THỰC NGHIỆM
+3.1. Mô tả bài toán và dữ liệu thực nghiệm
+Đề tài tập trung phân tích dữ liệu bài đăng mạng xã hội nhằm xác định các yếu tố ảnh hưởng đến mức độ tương tác của người dùng. Mục tiêu chính gồm: (1) mô tả và khám phá hành vi tương tác theo thời gian và loại nội dung, (2) xây dựng mô hình dự đoán chỉ số tương tác tổng hợp engagement, và (3) đề xuất hướng tối ưu hiệu quả đăng bài.
+Dữ liệu thực nghiệm được lấy từ tệp Data LIWC 01 02 23.csv, sau khi làm sạch còn khoảng 
+23.006 bài đăng
+ . Đây là các biến cốt lõi để phục vụ cả phân tích mô tả lẫn mô hình hóa.
+Mức độ tương tác của bài đăng được đánh giá thông qua các chỉ số như lượt thích (likes), lượt bình luận (comments), lượt chia sẻ (shares) và lượt xem (views). Thông qua việc phân tích dữ liệu, đề tài hướng đến việc tìm ra loại nội dung và thời điểm đăng bài mang lại hiệu quả tương tác cao nhất.
+Dữ liệu sử dụng trong đề tài bao gồm các thuộc tính chính như:
+Id bài viết (post_id)
+N
+hư nội dung bài (content)
+T
+hời gian đăng (time_post)
+S
+ố lượt thích (likes)
+C
+hia sẻ (shares)
+B
+ình luận (comments)
+L
+oại nội dung (media_type)
+Dữ liệu được tạo mô phỏng bằng Python với số lượng khoảng vài trăm đến vài nghìn bản ghi nhằm đảm bảo phù hợp với yêu cầu của bài tập lớn. Việc sử dụng dữ liệu mô phỏng giúp thuận tiện cho quá trình nghiên cứu, xử lý và đánh giá mô hình.
+Bảng 
+ SEQ Bảng \* ARABIC 
+1
+. Cấu trúc dữ liệu mạng xã hội
+post_id
+content
+content_type
+post_time
+likes
+comments
+shares
+views
+1
+Facebook
+Video
+2025-03-01 19:30
+1200
+200
+80
+15000
+2
+TikTok
+Image
+2025-03-01 14:10
+850
+95
+30
+9800
+3
+Instagram
+Video
+2025-03-02 20:45
+2500
+320
+150
+28000
+4
+Facebook
+Text
+2025-03-02 09:15
+430
+40
+12
+5200
+5
+TikTok
+Video
+2025-03-03 21:00
+3100
+410
+210
+35000
+6
+Instagram
+Image
+2025-03-03 16:20
+1450
+180
+65
+17000
+7
+Facebook
+Image
+2025-03-04 11:40
+620
+55
+20
+7400
+8
+TikTok
+Video
+2025-03-04 22:10
+4200
+530
+260
+47000
+9
+Instagram
+Text
+2025-03-05 08:30
+510
+48
+18
+6100
+10
+Facebook
+Video
+2025-03-05 18:50
+2100
+290
+120
+24000
+3.2. Phân tích và khảo sát dữ liệu ban đầu
+Sau khi thu thập dữ liệu, nhóm tiến hành khảo sát ban đầu để hiểu đặc điểm tập dữ 
+liệu
+. 
+Trước hết, dữ liệu được kiểm tra về số lượng bản ghi và số lượng thuộc tính nhằm xác định quy mô dữ liệu. Kết quả cho thấy tập dữ liệu có khoảng 
+23.006 
+bản ghi
+ với các cột chính phục vụ phân tích gồm: nội dung bài viết (content), thời gian đăng (time_post), lượt thích (likes), lượt chia sẻ (shares), lượt bình luận (comments) và loại nội dung (media_type).
+Tiếp theo, nhóm kiểm tra kiểu dữ liệu của từng cột để đảm bảo dữ liệu ở đúng định dạng (chuỗi, số, thời gian), đồng thời rà soát giá trị thiếu, dữ liệu trùng lặp và các giá trị bất thường. Kết quả khảo sát cho thấy dữ liệu tương đối đầy đủ, tuy nhiên vẫn cần các bước làm sạch và chuẩn hóa kiểu dữ liệu trước khi phân tích sâu.
+Ngoài ra, nhóm thực hiện thống kê mô tả (giá trị trung bình, nhỏ nhất, lớn nhất, độ lệch chuẩn) cho các biến tương tác. Kết quả cho thấy dữ liệu tương tác phân bố lệch: một số bài đăng có tương tác rất cao, trong khi phần lớn bài có mức tương tác trung bình hoặc thấp.
+Để quan sát trực quan hơn, nhóm sử dụng biểu đồ Histogram và Boxplot nhằm khảo sát phân bố dữ liệu và phát hiện ngoại lệ. Kết quả cho thấy tồn tại các điểm ngoại lệ với mức tương tác vượt trội so với phần lớn bài đăng còn 
+lại
+.
+Hình 
+ SEQ Hình \* ARABIC 
+2
+.
+ Thống kê
+ 
+mô tả dữ liệu
+Hình 
+ SEQ Hình \* ARABIC 
+3
+.
+ Histogram phân bố lượt thích
+Hình 
+ SEQ Hình \* ARABIC 
+4
+.
+ Boxplot phát hiện ngoại lệ
+3.3. Tiền xử lý dữ liệu
+Sau bước khảo sát dữ liệu ban đầu, dữ liệu được tiến hành tiền xử lý nhằm đảm bảo tính chính xác và phù hợp cho việc phân tích cũng như xây dựng mô hình học máy.
+Đầu tiên, các dòng dữ liệu trùng lặp được loại bỏ nhằm tránh ảnh hưởng đến kết quả phân tích. Sau đó, các giá trị thiếu được xử lý bằng cách thay thế bằng giá trị trung bình hoặc loại bỏ nếu số lượng quá ít.
+Tiếp theo, dữ liệu thời gian được chuyển đổi sang định dạng chuẩn datetime để thuận tiện cho việc xử lý. Từ dữ liệu thời gian, đề tài tạo thêm các thuộc tính mới như giờ đăng bài và ngày trong tuần nhằm hỗ trợ quá trình phân tích xu hướng tương tác theo thời gian.
+Ngoài ra, đề tài xây dựng thêm thuộc tính tổng mức độ tương tác bằng cách cộng số lượt thích, lượt bình luận và lượt chia sẻ của bài đăng. Thuộc tính này được sử dụng làm biến mục tiêu trong quá trình xây dựng mô hình dự đoán.
+Các thuộc tính dạng chữ như loại nội dung và nền tảng mạng xã hội được mã hóa sang dạng số nhằm phục vụ cho các mô hình học máy. Sau khi hoàn tất quá trình tiền xử lý, dữ liệu trở nên sạch hơn, đồng nhất hơn và sẵn sàng cho bước phân tích tiếp theo.
+Hình 
+ SEQ Hình \* ARABIC 
+5
+.
+ Quy trình 
+tiền
+ xử lí dữ liệu
+3.4. Trực quan hóa dữ liệu
+Để hiểu rõ hơn về dữ liệu và xác định các xu hướng quan trọng, đề tài sử dụng nhiều phương pháp trực quan hóa dữ liệu nhằm biểu diễn dữ liệu dưới dạng đồ họa.
+Biểu đồ cột được sử dụng để so sánh mức độ tương tác giữa các loại nội dung khác nhau. Kết quả cho thấy nội dung dạng video thường có mức độ tương tác cao nhất, tiếp theo là hình ảnh và cuối cùng là văn bản. Điều này cho thấy nội dung trực quan có khả năng thu hút người dùng hiệu quả hơn trên mạng xã hội.
+Biểu đồ đường được sử dụng để phân tích xu hướng tương tác theo thời gian đăng bài. Kết quả cho thấy các bài đăng vào buổi tối thường nhận được nhiều lượt tương tác hơn so với các thời điểm khác trong ngày.
+Ngoài ra, biểu đồ Heatmap được sử dụng để thể hiện mối tương quan giữa các chỉ số như lượt thích, bình luận, chia sẻ và lượt xem. Kết quả cho thấy các biến này có mối quan hệ tương quan dương khá mạnh với nhau.
+Scatter Plot được sử dụng để phân tích mối quan hệ giữa lượt thích và bình luận, trong khi Boxplot giúp phát hiện các giá trị ngoại lệ trong dữ liệu.
+Việc trực quan hóa dữ liệu giúp quá trình phân tích trở nên trực quan hơn, đồng thời 
+hỗ trợ phát hiện các xu hướng và đặc điểm quan trọng trong tập dữ liệu.
+Hình 
+ SEQ Hình \* ARABIC 
+6
+.
+ Tổng trực quan dữ liệu
+Hình 
+ SEQ Hình \* ARABIC 
+7
+.
+ Phân tích tương tác theo thời gian
+Hình 
+ SEQ Hình \* ARABIC 
+8
+.
+ Xu hướng chuỗi thời gian tương tác
+Hình 
+ SEQ Hình \* ARABIC 
+9
+.
+ Heatmap tương quan các biến nội dung/tương tác
+Hình 
+ SEQ Hình \* ARABIC 
+10
+.
+ Phân tích theo nhóm nội dung
+3.5. Phân tích dữ liệu /Xây dựng mô hình
+Sau khi dữ liệu được xử lý và phân tích, đề tài tiến hành xây dựng các mô hình học máy nhằm dự đoán mức độ tương tác của bài đăng.
+Dữ liệu được chia thành hai phần gồm tập huấn luyện chiếm 80% và tập kiểm tra chiếm 20%. Các thuộc tính đầu vào của mô hình bao gồm nền tảng mạng xã hội, loại nội dung, thời gian đăng bài, độ dài nội dung, số lượng hashtag và lượt xem. Biến đầu ra là tổng mức độ tương tác của bài đăng.
+Ba mô hình học máy được sử dụng trong đề tài gồm hồi quy tuyến tính (Linear Regression), 
+h
+ồi quy tăng cường Gradient
+(
+Gradient Boosting Regressor
+) và rừng ngẫu nhiên (
+Random Forest Regressor
+).
+Mô hình hồi quy tuyến tính được sử dụng nhằm đánh giá mối quan hệ tuyến tính giữa các thuộc tính và mức độ tương tác. Mô hình 
+h
+ồi quy tăng cường Gradient
+ thực 
+hiện phân chia dữ liệu thành nhiều nhánh nhằm đưa ra kết quả dự đoán. Trong khi đó, Random Forest là mô hình kết hợp nhiều cây quyết định nhằm cải thiện độ chính xác và giảm hiện tượng quá khớp dữ liệu.
+Các mô hình được huấn luyện trên tập dữ liệu huấn luyện và đánh giá trên tập kiểm tra nhằm đo lường hiệu quả dự đoán.
+Hình 
+ SEQ Hình \* ARABIC 
+11
+.
+ Quy trình xây dựng mô hình
+Hình 
+ SEQ Hình \* ARABIC 
+12
+.
+ Minh họa Random Forest
+3.6. Kết quả thực nghiệm
+Sau quá trình huấn luyện và đánh giá, các mô hình cho kết quả khác nhau về độ chính xác dự đoán.
+Kết quả thực nghiệm cho thấy mô hình hồi quy tuyến tính có tốc độ xử lý nhanh nhưng độ chính xác chưa cao do dữ liệu không hoàn toàn có mối quan hệ tuyến tính. Mô hình cây quyết định cho kết quả tốt hơn nhưng dễ xảy ra hiện tượng quá khớp khi dữ liệu có nhiều nhiễu.
+Trong ba mô hình được sử dụng, 
+Linear Regression
+ cho kết quả tốt nhất với độ chính xác cao và khả năng tổng quát hóa tốt hơn. Điều này cho thấy mô hình 
+Linear Regression
+ phù hợp hơn đối với bài toán dự đoán mức độ tương tác của bài đăng trên mạng xã hội.
+Các mô hình được đánh giá thông qua các chỉ số như:
+Mean Absolute Error (MAE), 
+Root Mean Square Error (RMSE), 
+R² Score. 
+Sau quá trình huấn luyện và đánh giá, ba mô hình hồi quy cho kết quả như sau:
+Linear Regression: R² = -0.0030, MAE = 153.95, RMSE = 708.25
+Random Forest Regressor: R² = -0.2118, MAE = 172.33, RMSE = 778.51
+Gradient Boosting Regressor: R² = -0.1859, MAE = 160.57, RMSE = 770.13
+Dựa trên các chỉ số thực nghiệm, Linear Regression cho kết quả tốt nhất tương đối trong ba mô hình đã thử (R² cao nhất và MAE/RMSE thấp nhất). Tuy nhiên, giá trị R² của cả ba mô hình đều âm, cho thấy khả năng dự đoán hiện tại chưa tốt và chưa vượt mức baseline đơn giản của dữ liệu.
+Kết quả này phản ánh rằng bài toán dự đoán mức độ tương tác trên dữ liệu hiện tại còn khó, do phân phối tương tác lệch mạnh, tồn tại ngoại lệ lớn và tập đặc trưng chưa đủ mạnh để mô tả đầy đủ hành vi người dùng. Mặc dù vậy, thực nghiệm đã cung cấp cơ sở định lượng rõ ràng để so sánh mô hình và làm nền tảng cho bước cải tiến ở phần đánh giá.
+Hình 
+ SEQ Hình \* ARABIC 
+1
+3
+.
+ So sánh hiệu năng các mô hình
+ 
+3.7. Đánh giá
+Kết quả thực nghiệm cho thấy dữ liệu mạng xã hội có nhiều yếu tố ảnh hưởng đến mức độ tương tác của bài đăng, trong đó loại nội dung và thời điểm đăng bài là những yếu tố quan trọng nhất.
+Các phương pháp trực quan hóa dữ liệu giúp phát hiện xu hướng và đặc điểm của dữ liệu một cách hiệu quả. Đồng thời, các mô hình học máy cho thấy khả năng dự đoán tương đối tốt đối với mức độ tương tác của bài đăng.
+Trong ba mô hình được sử dụng, 
+Linear Regression
+ 
+cho kết quả tốt nhất nhờ khả năng xử lý dữ liệu phi tuyến và hạn chế hiện tượng quá khớp dữ liệu.
+Tuy nhiên, đề tài vẫn còn một số hạn chế như dữ liệu sử dụng chủ yếu là dữ liệu mô phỏng nên chưa phản ánh hoàn toàn dữ liệu thực tế. Ngoài ra, số lượng thuộc tính còn hạn chế và chưa áp dụng các mô hình học sâu hoặc xử lý ngôn ngữ tự nhiên nâng cao.
+Trong tương lai, đề tài có thể được mở rộng bằng cách sử dụng dữ liệu thực tế với quy mô lớn hơn, áp dụng các phương pháp phân tích cảm xúc, Deep Learning hoặc xây dựng hệ thống phân tích dữ liệu mạng xã hội theo thời gian thực nhằm nâng cao độ chính xác và hiệu quả của mô hình.
+KẾT LUẬN
+1
+.
+ 
+Kết quả đạt được
+Sau quá trình nghiên cứu và thực hiện đồ án với đề tài “Phân tích dữ liệu mạng xã hội bằng Python”, 
+Nhóm
+ 
+em đã đạt được một số kết quả nhất định cả về mặt lý thuyết lẫn thực hành.
+Trước hết, đồ án đã giúp
+ nhóm
+ em tìm hiểu và hệ thống hóa được các kiến thức cơ bản về dữ liệu mạng xã hội, đặc điểm của dữ liệu do người dùng tạo ra, cũng như vai trò của việc phân tích dữ liệu trong việc khai thác thông tin từ các nền tảng mạng xã hội. Thông qua quá trình nghiên cứu,
+nhóm
+ em đã hiểu rõ hơn về các bước trong một quy trình phân tích dữ liệu, bao gồm: thu thập dữ liệu, làm sạch dữ liệu, tiền xử lý dữ liệu, phân tích dữ liệu và trực quan hóa kết quả.
+Về mặt công nghệ, 
+đề
+ tài 
+đã ứng dụng ngôn ngữ lập trình Python cùng một số thư viện hỗ trợ phân tích dữ liệu như Pandas, NumPy, Matplotlib, Seaborn và các thư viện xử lý dữ liệu văn bản. Python được sử dụng để xây dựng các chức năng chính như đọc dữ liệu, xử lý dữ liệu thô, loại bỏ dữ liệu nhiễu, thống kê thông tin và biểu diễn kết quả phân tích dưới dạng biểu đồ trực quan.
+Trong quá trình thực hiện, hệ thống đã xây dựng được quy trình xử lý dữ liệu mạng xã hội tương đối hoàn chỉnh. Dữ liệu sau khi được thu thập sẽ được làm sạch bằng cách loại bỏ các giá trị rỗng, dữ liệu trùng lặp, ký tự đặc biệt hoặc những thông tin không cần thiết. Sau đó, dữ liệu được phân tích để rút ra các thông tin có ý nghĩa như số lượng bài đăng, mức độ tương tác, tần suất xuất hiện của từ khóa, xu hướng quan tâm của người dùng hoặc cảm xúc thể hiện trong nội dung bình luận/bài viết.
+Bên cạnh đó, 
+đề
+ tài
+ cũng đã thực hiện việc trực quan hóa dữ liệu thông qua các biểu đồ như biểu đồ cột, biểu đồ tròn, biểu đồ đường hoặc biểu đồ thể hiện tần suất từ khóa. Các biểu đồ này giúp kết quả phân tích trở nên dễ hiểu, trực quan hơn và hỗ trợ người xem nhanh chóng nắm bắt được xu hướng chính trong dữ liệu.
+Nhìn chung, 
+đề
+ tài
+ đã đáp ứng được mục tiêu ban đầu là xây dựng một hệ thống
+ 
+phương pháp phân tích dữ liệu mạng xã hội bằng Python, từ đó khai thác được những thông tin có giá trị từ dữ liệu thu thập được.
+2
+.
+ 
+Hạn chế
+Mặc dù đã đạt được một số kết quả nhất định, 
+đề
+ tài
+ vẫn còn tồn tại một số hạn chế.
+Thứ nhất, dữ liệu sử dụng trong đề tài còn hạn chế về quy mô và phạm vi. Do thời gian thực hiện đồ án có giới hạn, dữ liệu mới chỉ được thu thập từ một số nguồn nhất định hoặc trong một khoảng thời gian nhất định. Vì vậy, kết quả phân tích chưa thể phản ánh đầy đủ toàn bộ xu hướng và hành vi của người dùng trên mạng xã hội.
+Thứ hai, chất lượng dữ liệu mạng xã hội thường không đồng nhất. Dữ liệu có thể chứa nhiều lỗi như từ viết tắt, tiếng lóng, biểu tượng cảm xúc, ký tự đặc biệt, lỗi chính tả hoặc nội dung không liên quan. Điều này gây khó khăn cho quá trình làm sạch và phân tích dữ liệu, đặc biệt là đối với dữ liệu tiếng Việt.
+Thứ ba, nếu đề tài có thực hiện phân tích cảm xúc, độ chính xác của mô hình vẫn còn phụ thuộc nhiều vào chất lượng dữ liệu đầu vào và phương pháp xử lý ngôn ngữ tự nhiên. Việc phân tích cảm xúc tiếng Việt còn gặp khó khăn do ngữ cảnh câu phức tạp, cách diễn đạt đa dạng và hiện tượng mỉa mai, nói bóng gió trên mạng xã hội.
+Thứ tư, hệ thống hiện tại chủ yếu xử lý dữ liệu ở mức cơ bản và theo hướng offline. Điều này có nghĩa là dữ liệu được thu thập trước rồi mới tiến hành phân tích, chưa đáp ứng tốt yêu cầu xử lý dữ liệu lớn hoặc dữ liệu cập nhật liên tục theo thời gian thực.
+Ngoài ra, giao diện hoặc cách trình bày kết quả của hệ thống còn có thể cải thiện thêm để thân thiện hơn với người dùng. Một số chức năng phân tích còn đơn giản, chưa tích hợp nhiều thuật toán nâng cao để đưa ra dự đoán hoặc đánh giá chuyên sâu hơn.
+3
+.
+ 
+Hướng phát triển
+Trong thời gian tới, đề tài có thể được tiếp tục phát triển theo nhiều hướng nhằm nâng cao hiệu quả và tính ứng dụng thực tế.
+Trước hết, có thể mở rộng phạm vi thu thập dữ liệu từ nhiều nền tảng mạng xã hội khác nhau như Facebook,YouTube,TikTok,Twitter/X hoặc các diễn đàn trực tuyến. Việc mở rộng nguồn dữ liệu sẽ giúp kết quả phân tích có tính tổng quát và khách quan hơn.
+Tiếp theo, cần cải thiện quá trình tiền xử lý dữ liệu, đặc biệt là dữ liệu tiếng Việt. Có thể bổ sung các kỹ thuật xử lý ngôn ngữ tự nhiên như tách từ tiếng Việt, loại bỏ stopword, chuẩn hóa từ viết tắt, xử lý emoji và phát hiện các nội dung nhiễu. Điều này 
+sẽ giúp nâng cao chất lượng dữ liệu đầu vào và cải thiện độ chính xác của kết quả phân tích.
+Bên cạnh đó, đề tài có thể áp dụng thêm các thuật toán học máy và học sâu như Naive Bayes, Logistic Regression,SVM,LSTM,BERT hoặc PhoBERT để nâng cao khả năng phân tích cảm xúc, phân loại nội dung hoặc dự đoán xu hướng. Đặc biệt, các mô hình hiện đại trong xử lý ngôn ngữ tự nhiên có thể giúp hệ thống hiểu ngữ cảnh tốt hơn và cho kết quả chính xác hơn.
+Ngoài ra, hệ thống có thể được phát triển theo hướng xử lý dữ liệu thời gian thực. Việc tích hợp các công nghệ như API,Apache Kafka, Spark hoặc các dịch vụ điện toán đám mây sẽ giúp hệ thống có khả năng phân tích dữ liệu liên tục, phù hợp với các bài toán giám sát xu hướng mạng xã hội.
+Cuối cùng, có thể xây dựng giao diện web hoặc dashboard trực quan để người dùng dễ dàng theo dõi kết quả phân tích. Dashboard có thể hiển thị các thống kê, biểu đồ, xu hướng từ khóa, mức độ tương tác và kết quả phân tích cảm xúc một cách sinh động, giúp nâng cao tính ứng dụng thực tế của đề tài.
+TÀI LIỆU THAM KHẢO
+1
+https://www.datacamp.com/courses/analyzing-social-media-data-in-python
+https://pyquesthub.com/unlocking-insights-analyzing-social-media-data-with-python
+Matthew A. Russell, Mikhail Klassen,
+Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More, 3rd Edition, O’Reilly Media, 2018.
+Fabio Nelli,
+Python Data Analytics: With Pandas, NumPy, and Matplotlib, Springer, 2023.
+Jiawei Han, Micheline Kamber, Jian Pei,Data Mining: Concepts and Techniques, Morgan Kaufmann.
+PHỤ LỤC
+1
+. 
+PHỤ LỤC A. MÔ
+ TẢ BỘ DỮ LIỆU
+Bộ dữ liệu được sử dụng trong đề tài nhằm phục vụ cho quá trình phân tích mức độ tương tác của các bài đăng trên mạng xã hội. Dữ liệu có thể được thu thập từ nguồn công khai hoặc được mô phỏng bằng ngôn ngữ lập trình Python nhằm đảm bảo phù hợp với mục tiêu học tập và nghiên cứu của đề tài.
+Về quy mô, tập dữ liệu gồm khoảng 23.000 bài đăng với nhiều thuộc tính khác nhau phản ánh đặc điểm nội dung và mức độ tương tác của người dùng. Các thuộc tính chính bao gồm mã bài đăng, nội dung bài viết, loại nội dung, thời gian đăng, số lượt thích, số lượt bình luận, số lượt chia sẻ và số lượt xem. Đây là các biến quan trọng phục vụ cho việc phân tích xu hướng và xây dựng mô hình dự đoán.
+Trong quá trình xử lý dữ liệu, một số biến mới được tạo ra nhằm hỗ trợ phân tích sâu hơn. Cụ thể, từ biến thời gian đăng bài, đề tài trích xuất thêm giờ đăng bài và ngày trong tuần để đánh giá ảnh hưởng của yếu tố thời gian đến mức độ tương tác. Đồng thời, một biến tổng mức độ tương tác được xây dựng bằng cách cộng số lượt thích, bình luận và chia sẻ. Biến này được sử dụng làm biến mục tiêu trong quá trình xây dựng mô hình học máy.
+Nhìn chung, bộ dữ liệu có cấu trúc rõ ràng, phù hợp với bài toán phân tích dữ liệu mạng xã hội và đảm bảo đáp ứng yêu cầu thực nghiệm của đề tài.
+2
+. 
+PHỤ LỤC B. 
+MỘT
+ PHẦN DỮ LIỆU MẪU
+Dữ liệu mẫu trong đề tài bao gồm các bài đăng thuộc nhiều nền tảng mạng xã hội khác nhau như Facebook, Instagram và TikTok. Mỗi bài đăng được mô tả thông qua các thông tin cơ bản gồm loại nội dung (văn bản, hình ảnh hoặc video), thời gian đăng bài và các chỉ số tương tác.
+Qua quan sát dữ liệu mẫu, có thể nhận thấy rằng các bài đăng dạng video thường có số lượt xem và mức độ tương tác cao hơn so với nội dung dạng văn bản. Bên cạnh đó, các bài đăng được thực hiện vào buổi tối có xu hướng nhận được nhiều lượt tương tác hơn so với các thời điểm khác trong ngày. Điều này cho thấy yếu tố thời gian và loại nội dung đóng vai trò quan trọng trong việc thu hút sự chú ý của người dùng.
+Phần dữ liệu mẫu được trình bày trong báo cáo nhằm minh họa cấu trúc và đặc điểm của tập dữ liệu tổng thể, đồng thời giúp người đọc hiểu rõ cách dữ liệu được tổ chức và sử dụng trong quá trình phân tích.
+3
+. 
+PHỤ LỤC C. 
+MÃ
+ NGUỒN CHƯƠNG TRÌNH
+Trong đề tài, mã nguồn chương trình được xây dựng bằng ngôn ngữ lập trình Python với sự hỗ trợ của các thư viện chuyên dụng trong lĩnh vực phân tích dữ liệu và học máy.
+Quá trình xử lý bắt đầu từ việc đọc dữ liệu từ tệp CSV vào môi trường làm việc thông qua thư viện Pandas. Sau đó, dữ liệu được chuyển đổi về đúng định dạng, đặc biệt là biến thời gian được chuyển sang kiểu dữ liệu datetime để thuận tiện cho việc trích xuất thông tin như giờ đăng bài và ngày trong tuần.
+Tiếp theo, chương trình thực hiện các bước làm sạch dữ liệu bao gồm loại bỏ các bản ghi trùng lặp, xử lý giá trị thiếu và chuẩn hóa kiểu dữ liệu. Sau khi hoàn tất bước tiền xử lý, chương trình tiến hành tính toán biến tổng mức độ tương tác và thực hiện các thống kê mô tả.
+Trong phần trực quan hóa dữ liệu, các biểu đồ như histogram, boxplot và heatmap được sử dụng để phân tích phân bố dữ liệu và mối quan hệ giữa các biến. Các thư viện như Matplotlib và Seaborn được áp dụng nhằm xây dựng biểu đồ trực quan, hỗ trợ quá trình phân tích.
+Cuối cùng, chương trình xây dựng và huấn luyện các mô hình học máy như Linear Regression, Decision Tree và Random Forest. Dữ liệu được chia thành tập huấn luyện và tập kiểm tra để đánh giá hiệu quả mô hình thông qua các chỉ số MAE, RMSE và R². Toàn bộ quy trình được tổ chức một cách logic và khoa học, đảm bảo tính tái lập và minh bạch trong quá trình nghiên cứu.
+4
+. 
+PHỤ LỤC D. 
+KẾT
+ QUẢ THỨC NGHIỆM BỔ SUNG
+Kết quả thực nghiệm cho thấy dữ liệu mạng xã hội có sự phân bố không đồng đều, với một số bài đăng đạt mức tương tác rất cao trong khi phần lớn bài đăng chỉ đạt mức trung bình hoặc thấp. Điều này dẫn đến phân phối dữ liệu bị lệch và xuất hiện các giá trị 
+ngoại lệ.
+Trong quá trình đánh giá mô hình, các chỉ số MAE, RMSE và R² được sử dụng nhằm đo lường sai số dự đoán và khả năng giải thích phương sai của mô hình. Kết quả cho thấy các mô hình hồi quy thử nghiệm chưa đạt hiệu quả cao, thể hiện qua giá trị R² âm. Điều này cho thấy mô hình chưa khai thác được đầy đủ mối quan hệ giữa các biến đầu vào và mức độ tương tác.
+Nguyên nhân có thể đến từ việc dữ liệu còn hạn chế về số lượng đặc trưng, tồn tại nhiều ngoại lệ và chưa áp dụng các kỹ thuật nâng cao trong xử lý dữ liệu. Tuy nhiên, thực nghiệm đã cung cấp cơ sở định lượng quan trọng để so sánh các mô hình và định hướng cải tiến trong tương lai.
+Trong các hướng phát triển tiếp theo, đề tài có thể mở rộng tập dữ liệu, bổ sung thêm các đặc trưng liên quan đến nội dung văn bản và cảm xúc, đồng thời áp dụng các mô hình học sâu nhằm nâng cao độ chính xác dự đoán.
+5
+. 
+PHỤ LỤC E. 
+PHÂN
+ CÔNG CÔNG VIỆC NHÓM
+STT
+Tên Thành Viên
+Mã SV
+Công Việc
+1
+Đỗ Văn Quân(Nhóm trưởng)
+20223099
+Xây Dựng Mô Hình Học Máy (Modeling) Chuẩn bị dữ liệu cho mô hình (one-hot encoding, chọn features) Huấn luyện và đánh giá 3 mô hình: Linear Regression, Random Forest, Gradient Boosting Vẽ biểu đồ Feature Importance, Actual vs Predicted, so sánh R² Điều phối chung: phân công, timeline, kiểm tra tiến độ, tổng hợp notebook cu
+2
+Hoàng Ngọc Thành
+20223011
+Dữ liệu &amp; Tiền xử lý Phần 0 + 1 + 2: Import → Load Data → Data Cleaning Import thư viện, cấu hình môi trường Tải dataset, khám phá cấu trúc ban đầu (shape, dtypes, head) Đổi tên cột, xử lý 
+NULL, xóa trùng lặp, chuyển đổi kiểu dữ liệu Viết báo cáo xác minh dữ liệu sau làm sạch
+3
+Vi Thế Toàn
+20223185
+Feature Engineering &amp; EDA Phần 3 + 4: Tạo tính năng mới + Phân tích khám phá Tạo các cột mới: engagement, hour_posted, content_length, has_hashtag, engagement_level... Phân tích phân phối, tương quan (correlation heatmap) Phân tích theo loại nội dung (media_type), theo thời gian (giờ, ngày, tuần) Tính thống kê mô tả và nhận xét xu hướng
+4
+Đào Xuân Phú
+20223053
+Trực quan hóa &amp; Insights Phần 5 + 7: Visualization + Kết luận Vẽ 5 bộ biểu đồ: phân phối engagement, boxplot theo media type, time series, phân tích từ khóa/wordcloud Viết phần Insights &amp; Kết luận (phát hiện chính, khuyến nghị hành động) Chuẩn bị slide/báo cáo trình bày kết quả cho cả nhóm
